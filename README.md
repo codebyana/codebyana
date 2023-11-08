@@ -1,4 +1,3 @@
-<svg fill="none" viewBox="0 0 837 221" width="837" xmlns="http://www.w3.org/2000/svg"><a0:foreignObject xmlns:a0="http://www.w3.org/2000/svg" width="837px" height="100%" xmlns="http://www.w3.org/1999/xhtml"><style>
 <h1 align="center">Hi 👋, I'm Ana Hanapi</h1>
 <h3 align="center">Mobile App Developer</h3>
 
